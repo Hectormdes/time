@@ -1,4 +1,6 @@
 import calendar 
+print("the calendar of year 1975 ie:")
+print(calendar.calendar(1975))
 yy = 1975
 mm = 8
-print(calendar.month(yy,mm)
+print(calendar.month(yy,mm))
